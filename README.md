@@ -23,5 +23,6 @@ would represent a board like this:
 | 6         | ...
  -----------
  ...
+ 
 
  To play the game, run sudoku.py
