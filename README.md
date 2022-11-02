@@ -24,4 +24,4 @@ would represent a board like this:
  -----------
  ...
 
- To play the game, tun sudoku.py
+ To play the game, run sudoku.py
